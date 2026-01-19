@@ -1,0 +1,3 @@
+SWX61783094|ali|alii|Lahore|Karachi|labs|1|1|1|Delivered|Accepted|1|1
+SWX46937193|lkans|lans|Gwadar|Quetta|las|1|11|1|Registered|Accepted|0|-1
+SWX22241231|lknas|kbas|Lahore|Thatta|kajsb|1|1|1|Registered|Accepted|0|-1

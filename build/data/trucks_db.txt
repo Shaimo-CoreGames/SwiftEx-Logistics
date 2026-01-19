@@ -1,0 +1,8 @@
+1|Ali Khan|5000|40|Lahore|Excellent
+2|Ahmed Raza|4000|35|Karachi|Good
+3|Usman Tariq|4500|38|Islamabad|Excellent
+2|asda|0|12|Depot|Excellent
+4|ankjasb|1000|20|Depot|Excellent
+5|avslasn|1000|30|Turbat|Excellent
+6|kabs|10|10000|Lahore|Good
+7|absa|1000|20|Lahore|Good
